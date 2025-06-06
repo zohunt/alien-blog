@@ -8,7 +8,7 @@ A sleek and stylish blog post card design inspired by extraterrestrial aesthetic
 - A "Read More" button styled with vibrant neon colors and smooth hover transitions  
 
 ## 🌌 Live Demo
-[View the live demo here]([https://your-demo-link.com](https://zohunt.github.io/alien-blog/)]
+([View the live demo here](https://zohunt.github.io/alien-blog/)]
 
 ## 🚀 Features
 - Responsive and centered card layout  
